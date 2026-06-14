@@ -37,8 +37,8 @@ body {
 }
 
 .img img {
-  width: 75px;
-  height: 75px;
+  width: 100px;
+  height: 100px;
   object-fit: cover;
   display: block;
 }
@@ -68,18 +68,7 @@ footer {
 
 .text-secondary {
   color:#8CAAEE;
-}
-
-.twitch:hover {
-  color: #772ce8;
-}
-
-.youtube:hover {
-  color: #ff0000;
-}
-
-.twitter:hover {
-  color: #1a8cd8;
+  font-size: 1.5rem;
 }
 
 .mastodon:hover {
@@ -88,10 +77,6 @@ footer {
 
 .bluesky:hover {
   color: #208bfe;
-}
-
-.instagram:hover {
-  color: #f5006f;
 }
 
 .github:hover {
